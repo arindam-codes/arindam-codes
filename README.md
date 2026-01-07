@@ -36,7 +36,7 @@ A structured map of my learning, projects, and explorations:
 
 - **Computational Physics Exploration (First Semester)**  
   Augmenting classical mechanics with numerical methods  
-  → https://github.com/arindam-codes/trying-to-learn-1st-sem-physics-in-a-new-way-
+  → [https://github.com/arindam-codes/Exploring First-Semester Physics via Computation](https://github.com/arindam-codes/trying-to-learn-1st-sem-physics-in-a-new-way-)
 
 - **First Semester Learning Reflection**  
   Decisions, corrections, and learning strategy  
