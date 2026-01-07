@@ -9,6 +9,15 @@ My interests span:
 - Mathematical & algorithmic thinking
 - Programming as a tool for understanding systems
 
+<p align="center">
+  <img src="./images/geometry-abstraction.png" width="70%" />
+</p>
+
+<p align="center">
+  <em>Geometric abstraction underlying polygonal circle approximation.</em>
+</p>
+
+
 ---
 
 ## 🧭 How to Explore My Work
