@@ -3,13 +3,13 @@
 I am a systems & computational learner focused on translating
 **theory → implementation** through code, simulation, and experimentation.
 
+<img align="right" src="./images/geometry-abstraction.png" width="260" />
+
 My interests span:
 - Embedded systems
 - Computational physics
 - Mathematical & algorithmic thinking
 - Programming as a tool for understanding systems
-
-<img align="right" src="./images/geometry-abstraction.png" width="260" />
 
 ---
 
