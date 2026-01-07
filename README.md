@@ -40,7 +40,7 @@ A structured map of my learning, projects, and explorations:
 
 - **First Semester Learning Reflection**  
   Decisions, corrections, and learning strategy  
-  → https://github.com/arindam-codes/first-semester-learning-reflection
+  → [https://github.com/arindam-codes/first-semester-learning-reflection](https://github.com/arindam-codes/1st-month-of-1st-semeter-)
 
 ---
 
