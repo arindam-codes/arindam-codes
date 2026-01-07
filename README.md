@@ -16,7 +16,7 @@ My interests span:
 ### 📌 Systems Learning Index
 A structured map of my learning, projects, and explorations:
 - **Systems Learning Log**  
-  → https://github.com/arindam-codes/systems-learning-log
+  → [My Learning Log](https://github.com/arindam-codes/systems-learning-log)
 
 ---
 
@@ -24,11 +24,11 @@ A structured map of my learning, projects, and explorations:
 
 - **Law of Sines Visualizer**  
   Computational geometry using trigonometry and visualization  
-  → https://github.com/arindam-codes/law-of-sines-visualizer
+  → [Law of Sines Visualizer](https://github.com/arindam-codes/law-of-sines-visualizer)
 
 - **General Root Finder**  
   Numerical root-finding via the bisection method  
-  → https://github.com/arindam-codes/general-root-finder
+  → [General Root Finder](https://github.com/arindam-codes/general-root-finder)
 
 ---
 
@@ -40,7 +40,7 @@ A structured map of my learning, projects, and explorations:
 
 - **First Semester Learning Reflection**  
   Decisions, corrections, and learning strategy  
-  → [https://github.com/arindam-codes/first-semester-learning-reflection](https://github.com/arindam-codes/1st-month-of-1st-semeter-)
+  → [First-semester learning reflection](https://github.com/arindam-codes/1st-month-of-1st-semeter-)
 
 ---
 
