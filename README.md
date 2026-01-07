@@ -12,8 +12,8 @@ My interests span:
 - Mathematical & algorithmic thinking
 - Programming as a tool for understanding systems
 
----
 
+---
 
 ## 🧭 How to Explore My Work
 
