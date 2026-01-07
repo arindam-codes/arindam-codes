@@ -9,11 +9,7 @@ My interests span:
 - Mathematical & algorithmic thinking
 - Programming as a tool for understanding systems
 
-<p align="right">
-  <img src="./images/geometry-abstraction.png" width="260" />
-</p>
-
-
+<img align="right" src="./images/geometry-abstraction.png" width="260" />
 
 ---
 
