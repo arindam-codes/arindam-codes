@@ -34,6 +34,19 @@ A structured map of my learning, projects, and explorations:
   Numerical root-finding via the bisection method  
   → [General Root Finder](https://github.com/arindam-codes/general-root-finder)
 
+ - **DayFlow RPC — Time-Aware Discord Presence**  
+  A local Python system that maps real-world time → activity state and reflects it via Discord Rich Presence.
+
+    Built as my **first real-world systems project** after completing *MIT 6.100L*, DayFlow RPC solves a human problem:  
+    making focus, availability, and transitions visible without manual communication.
+
+    It uses time-based state machines, countdown logic, and safe external update constraints (rate-limited updates) to continuously reflect:
+  - what I’m doing
+  - how long the current state lasts
+  - what comes next
+
+  → [DayFlow RPC (Live, time-driven system)](https://github.com/arindam-codes/DayFlow-RPC)
+
 ---
 
 ### 📚 Learning & Exploration
