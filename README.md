@@ -94,6 +94,7 @@ A real-time interactive system exploring camera control, lighting psychology, an
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://img.shields.io/badge/MicroPython-embedded-green"/>
   <img src="https://img.shields.io/badge/State%20Machines-behavior%20logic-orange"/>
 </p>
