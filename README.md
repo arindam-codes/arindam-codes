@@ -74,20 +74,38 @@ A real-time interactive system exploring camera control, lighting psychology, an
 
 ---
 
+### Implementation Philosophy
+> The same ideas I study mathematically, I try to make run in real environments.
 
 ## 🛠️ Tools & Technologies
 
-<p align="left">
+### Mathematical & Scientific Computing
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/VPython-visualization-blue"/>
+</p>
+
+### Systems & Low-Level Thinking
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/MicroPython-embedded-green"/>
+  <img src="https://img.shields.io/badge/State%20Machines-behavior%20logic-orange"/>
 </p>
+
+### Real-Time Interactive Runtime
+
 <p>
-  <img src="https://img.shields.io/badge/VPython-visualization-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/MicroPython-embedded-green?style=flat"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Roblox%20Engine-runtime%20environment-red"/>
+  <img src="https://img.shields.io/badge/Event--Driven-architecture-blue"/>
+  <img src="https://img.shields.io/badge/Client--Server-simulation-orange"/>
+  <img src="https://img.shields.io/badge/Real--Time-interactive-green"/>
 </p>
 
 
