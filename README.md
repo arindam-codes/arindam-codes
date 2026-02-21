@@ -22,6 +22,19 @@ A structured map of my learning, projects, and explorations:
 - **Systems Learning Log**  
   → [My Learning Log](https://github.com/arindam-codes/systems-learning-log)
 
+---  
+
+## 🎮 Interactive System Experiment
+
+### Roblox Cinematic Experience — Environmental Storytelling
+
+A real-time interactive system exploring camera control, lighting psychology, and player-state manipulation to communicate meaning without UI or dialogue.
+
+[![Play the Experience](https://img.shields.io/badge/Play%20on-Roblox-red?style=for-the-badge\&logo=roblox)](YOUR_LINK)
+
+→ Repository: https://github.com/arindam-codes/roblox-cinematic-experience
+
+
 ---
 
 ### 🧠 Projects (Theory → Implementation)
