@@ -30,7 +30,7 @@ A structured map of my learning, projects, and explorations:
 
 A real-time interactive system exploring camera control, lighting psychology, and player-state manipulation to communicate meaning without UI or dialogue.
 
-[![Play the Experience](https://img.shields.io/badge/Play%20on-Roblox-red?style=for-the-badge\&logo=roblox)](YOUR_LINK)
+[![Play the Experience](https://img.shields.io/badge/Play%20on-Roblox-red?style=for-the-badge\&logo=roblox)](https://www.roblox.com/games/90378282464127/Hello-Valentine)
 
 → Repository: https://github.com/arindam-codes/roblox-cinematic-experience
 
