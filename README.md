@@ -10,14 +10,15 @@ My interests span:
 - Embedded systems
 - Computational physics
 - Mathematical & algorithmic thinking
+- Game Development
 - Programming as a tool for understanding systems
 
 
 ---
 
-## 🧭 How to Explore My Work
+## How to Explore My Work
 
-### 📌 Systems Learning Index
+### Systems Learning Index
 A structured map of my learning, projects, and explorations:
 - **Systems Learning Log**  
   → [My Learning Log](https://github.com/arindam-codes/systems-learning-log)
@@ -52,13 +53,7 @@ A real-time interactive system exploring camera control, lighting psychology, an
 
     Built as my **first real-world systems project** after completing *MIT 6.100L*, DayFlow RPC solves a human problem:  
     making focus, availability, and transitions visible without manual communication.
-
-    It uses time-based state machines, countdown logic, and safe external update constraints (rate-limited updates) to continuously reflect:
-  - what I’m doing
-  - how long the current state lasts
-  - what comes next
-
-    → [DayFlow RPC (Live, time-driven system)](https://github.com/arindam-codes/DayFlow-RPC)
+  → [DayFlow RPC (Live, time-driven system)](https://github.com/arindam-codes/DayFlow-RPC)
 
 ---
 
@@ -112,6 +107,6 @@ A real-time interactive system exploring camera control, lighting psychology, an
 
 ---
 
-## 📌 Note
+## Note
 This profile represents **learning in public**, not finished expertise.
 Projects emphasize clarity, abstraction, and correctness over polish.
