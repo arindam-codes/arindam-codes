@@ -25,7 +25,7 @@ A structured map of my learning, projects, and explorations:
 
 ---  
 
-## 🎮 Interactive System Experiment
+## Interactive System Experiment
 
 ### Roblox Cinematic Experience — Environmental Storytelling
 
@@ -38,7 +38,7 @@ A real-time interactive system exploring camera control, lighting psychology, an
 
 ---
 
-### 🧠 Projects (Theory → Implementation)
+### Projects (Theory → Implementation)
 
 - **Law of Sines Visualizer**  
   Computational geometry using trigonometry and visualization  
@@ -57,7 +57,7 @@ A real-time interactive system exploring camera control, lighting psychology, an
 
 ---
 
-### 📚 Learning & Exploration
+### Learning & Exploration
 
 - **Computational Physics Exploration (First Semester)**  
   Augmenting classical mechanics with numerical methods  
