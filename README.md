@@ -51,7 +51,7 @@ A real-time interactive system exploring camera control, lighting psychology, an
  - **DayFlow RPC — Time-Aware Discord Presence**  
   A local Python system that maps real-world time → activity state and reflects it via Discord Rich Presence.
 
-    Built as my **first real-world systems project** after completing *MIT 6.100L*, DayFlow RPC solves a human problem:  
+    Built as my **first real-world systems project** after completing *MIT 6.100L*, DayFlow RPC , here I tried to solve a human problem:  
     making focus, availability, and transitions visible without manual communication.
   → [DayFlow RPC (Live, time-driven system)](https://github.com/arindam-codes/DayFlow-RPC)
 
