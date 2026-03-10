@@ -79,9 +79,9 @@ A real-time interactive system exploring camera control, lighting psychology, an
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white" height="40"/>
+  <img src="https://scipy.org/images/logo.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
-  <img src="https://img.shields.io/badge/VPython-visualization-blue"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxtwwmnSUNDaY0p2OUpwTITsBTAherWD1HMg&s" width="80"/>
 </p>
 
 ### Frontend & Web Systems
@@ -90,7 +90,6 @@ A real-time interactive system exploring camera control, lighting psychology, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
 ### Systems & Low-Level Thinking
@@ -98,19 +97,23 @@ A real-time interactive system exploring camera control, lighting psychology, an
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://img.shields.io/badge/MicroPython-embedded-green"/>
-  <img src="https://img.shields.io/badge/State%20Machines-behavior%20logic-orange"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1920px-C_Programming_Language.svg.png" width="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWRawqV1yoQkhZqT6u9eQZLuAtTG2Hy_RVQw&s" width="40"/>
+</p>
+
+### Development Environment
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/250px-Spyder_logo.svg.png" width="40"/>
 </p>
 
 ### Real-Time Interactive Runtime
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40"/>
-  <img src="https://img.shields.io/badge/Roblox%20Engine-runtime%20environment-red"/>
-  <img src="https://img.shields.io/badge/Event--Driven-architecture-blue"/>
-  <img src="https://img.shields.io/badge/Client--Server-simulation-orange"/>
-  <img src="https://img.shields.io/badge/Real--Time-interactive-green"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/250px-Luau_Logo_%28Programming_Language%29.svg.png" width="40"/>
 </p>
 
 
