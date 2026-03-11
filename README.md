@@ -132,26 +132,26 @@ Projects emphasize clarity, abstraction, and correctness over polish.
 <p align="left">
 
   <a href="https://arindam-codes.github.io/roblox-system-portfolio/">
-    <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/portfolio.png" width="80"/>
+    <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/portfolio.png" width="60"/>
   </a>
   
   <a href="https://www.youtube.com/@buildwith-code">
-    <img src="https://static.vecteezy.com/system/resources/previews/052/940/420/non_2x/3d-render-icon-of-play-button-youtube-free-png.png" width="80"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/052/940/420/non_2x/3d-render-icon-of-play-button-youtube-free-png.png" width="60"/>
   </a>
   
   <a href="https://x.com/kdav1729">
-    <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/x.png" width="80"/>
+    <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/x.png" width="60"/>
   </a>
   
   <a href="https://www.linkedin.com/in/arindam-bhattacharjee-39a811376">
-    <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/linkdeinlogo-removebg-preview.png" width="80"/>
+    <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/linkdeinlogo-removebg-preview.png" width="60"/>
   </a>
   
   <a href="https://medium.com/@theengineerbro394">
-    <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/medium-removebg-preview.png" width="80"/>
+    <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/medium-removebg-preview.png" width="60"/>
   </a>
 
   <a href="mailto:theengineerbro394@gmail.com">
-    <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-gmail-3d-icon-png-download-13567127.png" width="80"/>
+    <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-gmail-3d-icon-png-download-13567127.png" width="60"/>
   </a>
 </p>
