@@ -150,4 +150,8 @@ Projects emphasize clarity, abstraction, and correctness over polish.
   <a href="https://medium.com/@theengineerbro394">
     <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/medium-removebg-preview.png" width="80"/>
   </a>
+
+  <a href="mailto:theengineerbro394@gmail.com">
+    <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-gmail-3d-icon-png-download-13567127.png" width="80"/>
+  </a>
 </p>
