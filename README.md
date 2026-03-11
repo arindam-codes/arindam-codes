@@ -123,3 +123,26 @@ A real-time interactive system exploring camera control, lighting psychology, an
 ## Note
 This profile represents **learning in public**, not finished expertise.
 Projects emphasize clarity, abstraction, and correctness over polish.
+
+---
+
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.youtube.com/@buildwith-code">
+    <img src="https://static.vecteezy.com/system/resources/previews/052/940/420/non_2x/3d-render-icon-of-play-button-youtube-free-png.png" width="80"/>
+  </a>
+  
+  <a href="https://x.com/kdav1729">
+    <img src="https://img.freepik.com/premium-psd/twitter-new-x-3d-png-logo-psd-isolated_505631-108.jpg" width="80"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/arindam-bhattacharjee-39a811376">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  
+  <a href="https://medium.com/@theengineerbro394">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="40"/>
+  </a>
+</p>
