@@ -115,6 +115,7 @@ A real-time interactive system exploring camera control, lighting psychology, an
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/250px-Luau_Logo_%28Programming_Language%29.svg.png" width="40"/>
   <img src="https://imgproxy.flathub.org/insecure/dpr:1/f:webp/q:100/rs:fit:128:128/aHR0cHM6Ly9kbC5mbGF0aHViLm9yZy9tZWRpYS9vcmcvdmluZWdhcmhxL1ZpbmVnYXIvYjg5YTRjMGYzMDg2ODllMDcyYmVjOGFjYzQxZTdjNTQvaWNvbnMvMTI4eDEyOC9vcmcudmluZWdhcmhxLlZpbmVnYXIucG5n" width="40"/>
+  <img src="https://rojo.space/img/logo.png" width="40"/>
 </p>
 
 
