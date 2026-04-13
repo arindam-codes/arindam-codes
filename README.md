@@ -79,6 +79,7 @@ A real-time interactive system exploring camera control, lighting psychology, an
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/Pandas.png" width="40"/>
   <img src="https://scipy.org/images/logo.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxtwwmnSUNDaY0p2OUpwTITsBTAherWD1HMg&s" width="80"/>
