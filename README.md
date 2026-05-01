@@ -211,6 +211,6 @@ Projects emphasize clarity, abstraction, and correctness over polish.
 
 <br><br>
 
-<img src="https://profile-counter.glitch.me/arindam-codes/count.svg" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=arindam-codes&color=00FFD1&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
