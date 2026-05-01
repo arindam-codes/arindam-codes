@@ -14,6 +14,9 @@
 
 ---
 
+<div align="center"> <table> <tr> <td width="70%"> <h3>🎯 Research Interests</h3> <p align="left"> <code>◈ Stochastic Calculus & Randomness</code><br> <code>◈ Probability Theory (Measure-Theoretic Depth)</code><br> <code>◈ Quantitative Finance & Market Microstructure</code><br> <code>◈ Mathematical Intuition as a Way of Seeing</code><br> <code>◈ Computational Systems & Infrastructure</code><br> <code>◈ Research & SaaS</code> </p> </td> <td width="30%" align="center"> <img src="./images/geometry-abstraction.png" width="200" /> </td> </tr> </table> </div>
+
+---
 <div align="center">
 
 ## 📡 Systems Learning Index — MIT Curriculum
