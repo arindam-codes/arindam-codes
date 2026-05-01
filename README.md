@@ -30,41 +30,42 @@ mindmap
   root((Quant Systems Journey))
     
     Semester 1
-      18.01 Calculus I
-      6.1010 Programming II
-      6.1200 Discrete Math
-      8.01 Physics I
+      Calculus I
+      Programming II
+      Discrete Math
+      Physics I
     
     Semester 2
-      18.02 Calculus II
-      8.02 Physics II
-      18.06 Linear Algebra
-      6.1210 Algorithms
+      Calculus II
+      Physics II
+      Linear Algebra
+      Algorithms
     
     Semester 3
-      18.05 Probability_Stats
-      6.1020 Software Construction
-      6.1220 Advanced Algorithms
-      HASS Elective
+      Probability_Stats
+      Software Construction
+      Advanced Algorithms
+      Elective
     
     Semester 4
-      6.1800 Computer Systems
-      6.3722 Statistical Data Analysis
-      6.3100 Dynamical Systems
-      6.3732 Statistics_Comp_App
+      Computer Systems
+      Statistical Data Analysis
+      Dynamical Systems
+      Statistics_Comp_App
     
     Semester 5
-      6.3900 Machine Learning
-      6.5831 Database Systems
-      6.C571 Optimization Methods
-      HASS Elective
+      Machine Learning
+      Database Systems
+      Optimization Methods
+      Elective
     
     Semester 6
-      CI-M Elective
-      Advanced Elective
-      Project_Capstone
-      HASS Final
+      Adv Electives
 
+    Semester 7_8
+      Stochastic Processes
+      Quant Finance Theory
+      Research
 ```
 </div>
 
