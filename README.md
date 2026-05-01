@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- ULTRA AESTHETIC HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arindam+%F0%9F%91%8B;Building+Quant+Systems+using+Math%2C+Code+%26+Simulation;Documenting+my+journey+to+Quant+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Arindam+%F0%9F%91%8B;Building+Quant+Systems+using+Math%2C+Code+%26+Simulation;Documenting+my+journey+to+Quant+Researcher" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/quant-systems-00FFD1?style=flat-square&logo=quantconnect&logoColor=white&labelColor=0D1117" />
