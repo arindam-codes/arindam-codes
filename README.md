@@ -18,7 +18,60 @@
 
 ---
 
+<div align="center">
+
 ## 🔬 Projects: Theory → Implementation
+
+</div>
+
+---
+
+### 🧠 Mathematical & Quant Foundations
+
+* 🔗 **Optimization Models (MIT 6.100B)**
+  * Investment portfolio 
+    → [Invest Portfolio Model](https://github.com/arindam-codes/investment-portfolio)
+  * Freelncers dillemna
+    → [Freelancers Most Profitable Jobs choosing engine](https://github.com/arindam-codes/freelances-dillemna)
+  
+* 🔗 **General Root Finder**
+  Numerical methods (bisection) for solving equations
+  → https://github.com/arindam-codes/general-root-finder
+
+* 🔗 **Law of Sines Visualizer**
+  Computational geometry + trigonometric visualization
+  → https://github.com/arindam-codes/Law-of-Sines-Visualizer
+
+* 🔗 **DayFlow RPC**
+  Time-aware system mapping real-world activity → Discord presence
+  → https://github.com/arindam-codes/DayFlow-discord-rich-presence-python
+
+---
+
+### 🧩 Systems & Computational Learning
+
+* 🔗 **Systems Learning Log**
+  Structured map of learning across math, physics, and computation
+  → https://github.com/arindam-codes/systems-learning-log
+
+* 🔗 **Computational Physics Exploration**
+  Simulating classical mechanics using code
+  → https://github.com/arindam-codes/Learning-physics-by-simulation
+
+---
+
+### 📦 Additional Work
+
+* CS50 Learning → https://github.com/arindam-codes/cs50-learning
+* Pandas Practice → https://github.com/arindam-codes/learning-pandas-as-beginner
+* MicroPython Labs → https://github.com/arindam-codes/micropython-led-labs
+* Roblox Scripting → https://github.com/arindam-codes/roblox-scripting-practices
+* **Roblox Cinematic Experience**
+  Real-time interactive system for environmental storytelling & camera control
+  → https://github.com/arindam-codes/roblox-cinematic-experience
+
+</div>
+
 
 ---
 <div align="center">
