@@ -15,54 +15,53 @@
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="70%">
-        <h3>🎯 Research Interests</h3>
-        <p align="left">
-          <code>◈ Embedded Systems</code><br>
-          <code>◈ Computational Physics</code><br>
-          <code>◈ Mathematical & Algorithmic Thinking</code><br>
-          <code>◈ Game Development</code><br>
-          <code>◈ Programming as a Lens for Systems</code>
-        </p>
-      </td>
-      <td width="30%" align="center">
-        <img src="./images/geometry-abstraction.png" width="200" />
-      </td>
-    </tr>
-  </table>
-</div>
 
----
+## 📡 Systems Learning Index — MIT Curriculum
 
-<div align="center">
-  
-## 📡 Systems Learning Index
-  
 </div>
 
 <div align="center">
-  
+
 ```mermaid
 mindmap
-  root((Systems Learning Log))
-    Core Mathematics
-      Linear Algebra
-      Calculus
-      Numerical Methods
-    Computational Physics
-      Mechanics
-      Electrodynamics
-      Simulation
-    Quant Systems
-      Stochastic Calculus
-      Time Series
-      Risk Modeling
-    Game Systems
-      Physics Engines
-      AI Behavior
-      Optimization
+  root((Quant Systems Journey))
+    
+    Semester 1
+      18.01 Calculus I
+      6.1010 Programming II
+      6.1200 Discrete Math
+      8.01 Physics I
+    
+    Semester 2
+      18.02 Calculus II
+      8.02 Physics II
+      18.06 Linear Algebra
+      6.1210 Algorithms
+    
+    Semester 3
+      18.05 Probability_Stats
+      6.1020 Software Construction
+      6.1220 Advanced Algorithms
+      HASS Elective
+    
+    Semester 4
+      6.1800 Computer Systems
+      6.3722 Statistical Data Analysis
+      6.3100 Dynamical Systems
+      6.3732 Statistics_Comp_App
+    
+    Semester 5
+      6.3900 Machine Learning
+      6.5831 Database Systems
+      6.C571 Optimization Methods
+      HASS Elective
+    
+    Semester 6
+      CI-M Elective
+      Advanced Elective
+      Project_Capstone
+      HASS Final
+
 ```
 </div>
 
