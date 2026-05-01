@@ -1,159 +1,208 @@
-# Hi, I'm Arindam 👋
+<div align="center">
+  
+<!-- ULTRA AESTHETIC HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arindam+%F0%9F%91%8B;Building+Quant+Systems+using+Math%2C+Code+%26+Simulation;Documenting+my+journey+to+Quant+Researcher" alt="Typing SVG" />
 
-**Building Quant Systems using Math, Code & Simulation**
-Documenting my journey to becoming a Quant Researcher
+<p align="center">
+  <img src="https://img.shields.io/badge/quant-systems-00FFD1?style=flat-square&logo=quantconnect&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/computational-physics-FF6B6B?style=flat-square&logo=physics&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/math-rigorous-4ECDC4?style=flat-square&logo=mathworks&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/simulation-real-FFE66D?style=flat-square&logo=simulators&logoColor=black&labelColor=0D1117" />
+</p>
 
-<img align="right" src="./images/geometry-abstraction.png" width="230" />
-
-
-My interests span:
-- Embedded systems
-- Computational physics
-- Mathematical & algorithmic thinking
-- Game Development
-- Programming as a tool for understanding systems
-
+</div>
 
 ---
 
-## How to Explore My Work
+<div align="center">
+  <table>
+    <tr>
+      <td width="70%">
+        <h3>🎯 Research Interests</h3>
+        <p align="left">
+          <code>◈ Embedded Systems</code><br>
+          <code>◈ Computational Physics</code><br>
+          <code>◈ Mathematical & Algorithmic Thinking</code><br>
+          <code>◈ Game Development</code><br>
+          <code>◈ Programming as a Lens for Systems</code>
+        </p>
+      </td>
+      <td width="30%" align="center">
+        <img src="./images/geometry-abstraction.png" width="200" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Systems Learning Index
-A structured map of my learning, projects, and explorations:
-- **Systems Learning Log**  
-  → [My Learning Log](https://github.com/arindam-codes/systems-learning-log)
+---
 
----  
+<div align="center">
+  
+## 📡 Systems Learning Index
+  
+</div>
 
-## Interactive System Experiment
+<div align="center">
+  
+```mermaid
+mindmap
+  root((Systems Learning Log))
+    Core Mathematics
+      Linear Algebra
+      Calculus
+      Numerical Methods
+    Computational Physics
+      Mechanics
+      Electrodynamics
+      Simulation
+    Quant Systems
+      Stochastic Calculus
+      Time Series
+      Risk Modeling
+    Game Systems
+      Physics Engines
+      AI Behavior
+      Optimization
+```
+</div>
 
-### Roblox Cinematic Experience — Environmental Storytelling
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%93%9A_VISIT_MY_LEARNING_LOG-0D1117?style=for-the-badge&logo=gitbook&logoColor=00FFD1" />
+</div>
 
+<div align="center">
+🎮 Interactive System Experiment
+</div>
+
+<div align="center">
+
+Roblox Cinematic Experience — Environmental Storytelling  
 A real-time interactive system exploring camera control, lighting psychology, and player-state manipulation to communicate meaning without UI or dialogue.
 
-[![Play the Experience](https://img.shields.io/badge/Play%20on-Roblox-red?style=for-the-badge&logo=roblox)](https://www.roblox.com/games/90378282464127/Hello-Valentine)
+<a href="YOUR_ROBLOX_LINK">
+  <img src="https://img.shields.io/badge/%E2%96%B6_PLAY_ON_ROBLOX-FF0000?style=for-the-badge&logo=roblox&logoColor=white" />
+</a>
 
-→ Repository: https://github.com/arindam-codes/roblox-cinematic-experience
+<a href="https://github.com/arindam-codes/roblox-cinematic-experience">
+  <img src="https://img.shields.io/badge/%E2%8E%94_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
+</div>
 
----
+<div align="center">
+🔬 Projects: Theory → Implementation
+</div>
 
-### Projects (Theory → Implementation)
+<div align="center">
 
-- **Law of Sines Visualizer**  
-  Computational geometry using trigonometry and visualization  
-  → [Law of Sines Visualizer](https://github.com/arindam-codes/law-of-sines-visualizer)
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Stack</th>
+</tr>
 
-- **General Root Finder**  
-  Numerical root-finding via the bisection method  
-  → [General Root Finder](https://github.com/arindam-codes/general-root-finder)
+<tr>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Law of Sines Visualizer</td>
+<td>Computational geometry using trigonometry</td>
+<td>NumPy, Matplotlib</td>
+</tr>
 
- - **DayFlow RPC — Time-Aware Discord Presence**  
-  A local Python system that maps real-world time → activity state and reflects it via Discord Rich Presence.
+<tr>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> General Root Finder</td>
+<td>Numerical root-finding via bisection method</td>
+<td>SciPy, Custom Algos</td>
+</tr>
 
-    Built as my **first real-world systems project** after completing *MIT 6.100L*, DayFlow RPC , here I tried to solve a human problem:  
-    making focus, availability, and transitions visible without manual communication.
-  → [DayFlow RPC (Live, time-driven system)](https://github.com/arindam-codes/DayFlow-RPC)
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> DayFlow RPC</td>
+<td>Time-aware Discord Rich Presence system</td>
+<td>Python, Discord API</td>
+</tr>
 
----
+<tr>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="20"/> Roblox Cinematic Experience</td>
+<td>Real-time environmental storytelling</td>
+<td>Luau, Roblox Studio</td>
+</tr>
 
-### Learning & Exploration
+</table>
 
-- **Computational Physics Exploration (First Semester)**  
-  Augmenting classical mechanics with numerical methods  
-  → [Exploring First-Semester Physics via Computation](https://github.com/arindam-codes/trying-to-learn-1st-sem-physics-in-a-new-way-)
+<br>
 
-- **First Semester Learning Reflection**  
-  Decisions, corrections, and learning strategy  
-  → [First-semester learning reflection](https://github.com/arindam-codes/1st-month-of-1st-semeter-)
+<a href="YOUR_LINK_1">
+  <img src="https://img.shields.io/badge/Law_of_Sines_Visualizer-0D1117?style=for-the-badge"/>
+</a>
 
----
+<a href="YOUR_LINK_2">
+  <img src="https://img.shields.io/badge/General_Root_Finder-0D1117?style=for-the-badge"/>
+</a>
 
-### Implementation Philosophy
-> The same ideas I study mathematically, I try to make run in real environments.
+<a href="YOUR_LINK_3">
+  <img src="https://img.shields.io/badge/DayFlow_RPC-0D1117?style=for-the-badge"/>
+</a>
 
-## 🛠️ Tools & Technologies
-
-### Mathematical & Scientific Computing
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/Pandas.png" width="40"/>
-  <img src="https://scipy.org/images/logo.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxtwwmnSUNDaY0p2OUpwTITsBTAherWD1HMg&s" width="80"/>
-</p>
-
-### Frontend & Web Systems
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-</p>
-
-### Systems & Low-Level Thinking
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1920px-C_Programming_Language.svg.png" width="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWRawqV1yoQkhZqT6u9eQZLuAtTG2Hy_RVQw&s" width="40"/>
-</p>
-
-### Development Environment
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/250px-Spyder_logo.svg.png" width="40"/>
-</p>
-
-### Real-Time Interactive Runtime
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/250px-Luau_Logo_%28Programming_Language%29.svg.png" width="40"/>
-  <img src="https://imgproxy.flathub.org/insecure/dpr:1/f:webp/q:100/rs:fit:128:128/aHR0cHM6Ly9kbC5mbGF0aHViLm9yZy9tZWRpYS9vcmcvdmluZWdhcmhxL1ZpbmVnYXIvYjg5YTRjMGYzMDg2ODllMDcyYmVjOGFjYzQxZTdjNTQvaWNvbnMvMTI4eDEyOC9vcmcudmluZWdhcmhxLlZpbmVnYXIucG5n" width="40"/>
-  <img src="https://rojo.space/img/logo.png" width="40"/>
-</p>
+</div>
 
 
----
+<div align="center">
+  
+## 📖 Learning & Exploration
 
-## Note
-This profile represents **learning in public**, not finished expertise.
+### 🔬 Computational Physics Exploration
+
+> *Augmenting classical mechanics with numerical methods*
+
+[![View Repository](https://img.shields.io/badge/▶_First_Semester_Physics_via_Computation-00FFD1?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117&color=00FFD1)](https://github.com/arindam-codes/trying-to-learn-1st-sem-physics-in-a-new-way-)
+
+### 📝 First Semester Learning Reflection
+
+> *Decisions, corrections, and learning strategy*
+
+[![View Repository](https://img.shields.io/badge/▶_First_Semester_Learning_Reflection-00FFD1?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117&color=00FFD1)](https://github.com/arindam-codes/1st-month-of-1st-semeter-)
+
+</div>
+
+<div align="center">
+
+⚡ Implementation Philosophy  
+The same ideas I study mathematically, I try to make run in real environments.
+
+</div>
+
+<div align="center">
+
+```mermaid
+flowchart LR
+    A[Mathematical Theory] --> B[Algorithm Design]
+    B --> C[Code Implementation]
+    C --> D[Simulation]
+    D --> E[Real Environment]
+    E -.->|Feedback Loop| A
+```
+</div> 
+
+<div align="center">
+🛠️ Tools & Technologies
+</div><div align="center">
+Mathematical & Scientific Computing
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" style="filter: drop-shadow(0 0 5px #00FFD1);"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" style="filter: drop-shadow(0 0 5px #4ECDC4);"/> <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/Pandas.png" width="45" style="filter: drop-shadow(0 0 5px #130f40);"/> <img src="https://scipy.org/images/logo.svg" width="45" style="filter: drop-shadow(0 0 5px #8B5CF6);"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" style="filter: drop-shadow(0 0 5px #FF6B6B);"/> </p>
+Frontend & Web Systems
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" style="filter: drop-shadow(0 0 5px #E44D26);"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" style="filter: drop-shadow(0 0 5px #264DE4);"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" style="filter: drop-shadow(0 0 5px #F7DF1E);"/> </p>
+Systems & Low-Level Thinking
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" style="filter: drop-shadow(0 0 5px #FCC624);"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" style="filter: drop-shadow(0 0 5px #F05032);"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1920px-C_Programming_Language.svg.png" width="45" style="filter: drop-shadow(0 0 5px #A8B9CC);"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWRawqV1yoQkhZqT6u9eQZLuAtTG2Hy_RVQw&s" width="45" style="filter: drop-shadow(0 0 5px #00599C);"/> </p>
+Development Environment
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" style="filter: drop-shadow(0 0 5px #007ACC);"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" style="filter: drop-shadow(0 0 5px #F37626);"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/250px-Spyder_logo.svg.png" width="45" style="filter: drop-shadow(0 0 5px #FF0000);"/> </p>
+Real-Time Interactive Runtime
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="45" style="filter: drop-shadow(0 0 5px #2C2D72);"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/250px-Luau_Logo_%28Programming_Language%29.svg.png" width="45" style="filter: drop-shadow(0 0 5px #00A2FF);"/> <img src="https://imgproxy.flathub.org/insecure/dpr:1/f:webp/q:100/rs:fit:128:128/aHR0cHM6Ly9kbC5mbGF0aHViLm9yZy9tZWRpYS9vcmcvdmluZWdhcmhxL1ZpbmVnYXIvYjg5YTRjMGYzMDg2ODllMDcyYmVjOGFjYzQxZTdjNTQvaWNvbnMvMTI4eDEyOC9vcmcudmluZWdhcmhxLlZpbmVnYXIucG5n" width="45" style="filter: drop-shadow(0 0 5px #62B543);"/> <img src="https://rojo.space/img/logo.png" width="45" style="filter: drop-shadow(0 0 5px #F7C244);"/> </p></div>
+<div align="center">
+📝 Note
+This profile represents learning in public, not finished expertise.
 Projects emphasize clarity, abstraction, and correctness over polish.
 
----
+</div>
+<div align="center">
+🌐 Connect With Me
+<p align="center"> <a href="https://arindam-codes.github.io/roblox-system-portfolio/"> <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/portfolio.png" width="55" style="border-radius: 25%; transition: transform 0.3s ease;"/> </a> &nbsp;&nbsp; <a href="https://www.youtube.com/@buildwith-code"> <img src="https://static.vecteezy.com/system/resources/previews/052/940/420/non_2x/3d-render-icon-of-play-button-youtube-free-png.png" width="55" style="border-radius: 25%; transition: transform 0.3s ease;"/> </a> &nbsp;&nbsp; <a href="https://x.com/kdav1729"> <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/x.png" width="55" style="border-radius: 25%; transition: transform 0.3s ease;"/> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/arindam-bhattacharjee-39a811376"> <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/linkdeinlogo-removebg-preview.png" width="55" style="border-radius: 25%; transition: transform 0.3s ease;"/> </a> &nbsp;&nbsp; <a href="https://medium.com/@theengineerbro394"> <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/medium-removebg-preview.png" width="55" style="border-radius: 25%; transition: transform 0.3s ease;"/> </a> &nbsp;&nbsp; <a href="mailto:theengineerbro394@gmail.com"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-gmail-3d-icon-png-download-13567127.png" width="55" style="border-radius: 25%; transition: transform 0.3s ease;"/> </a> </p></div>
 
 
-## 🌐 Connect With Me
-
-<p align="left">
-
-  <a href="https://arindam-codes.github.io/roblox-system-portfolio/">
-    <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/portfolio.png" width="60"/>
-  </a>
-  
-  <a href="https://www.youtube.com/@buildwith-code">
-    <img src="https://static.vecteezy.com/system/resources/previews/052/940/420/non_2x/3d-render-icon-of-play-button-youtube-free-png.png" width="60"/>
-  </a>
-  
-  <a href="https://x.com/kdav1729">
-    <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/x.png" width="60"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/arindam-bhattacharjee-39a811376">
-    <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/linkdeinlogo-removebg-preview.png" width="60"/>
-  </a>
-  
-  <a href="https://medium.com/@theengineerbro394">
-    <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/medium-removebg-preview.png" width="60"/>
-  </a>
-
-  <a href="mailto:theengineerbro394@gmail.com">
-    <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-gmail-3d-icon-png-download-13567127.png" width="60"/>
-  </a>
-</p>
