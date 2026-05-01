@@ -1,7 +1,7 @@
 # Hi, I'm Arindam 👋
 
-I am a systems & computational learner focused on translating
-**theory → implementation** through code, simulation, and experimentation.
+**Building Quant Systems using Math, Code & Simulation**
+Documenting my journey to becoming a Quant Researcher
 
 <img align="right" src="./images/geometry-abstraction.png" width="230" />
 
