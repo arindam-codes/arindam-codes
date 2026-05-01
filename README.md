@@ -205,4 +205,12 @@ Projects emphasize clarity, abstraction, and correctness over polish.
 🌐 Connect With Me
 <p align="center"> <a href="https://arindam-codes.github.io/roblox-system-portfolio/"> <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/portfolio.png" width="55" style="border-radius: 25%; transition: transform 0.3s ease;"/> </a> &nbsp;&nbsp; <a href="https://www.youtube.com/@buildwith-code"> <img src="https://static.vecteezy.com/system/resources/previews/052/940/420/non_2x/3d-render-icon-of-play-button-youtube-free-png.png" width="55" style="border-radius: 25%; transition: transform 0.3s ease;"/> </a> &nbsp;&nbsp; <a href="https://x.com/kdav1729"> <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/x.png" width="55" style="border-radius: 25%; transition: transform 0.3s ease;"/> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/arindam-bhattacharjee-39a811376"> <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/linkdeinlogo-removebg-preview.png" width="55" style="border-radius: 25%; transition: transform 0.3s ease;"/> </a> &nbsp;&nbsp; <a href="https://medium.com/@theengineerbro394"> <img src="https://github.com/arindam-codes/arindam-codes/blob/main/images/medium-removebg-preview.png" width="55" style="border-radius: 25%; transition: transform 0.3s ease;"/> </a> &nbsp;&nbsp; <a href="mailto:theengineerbro394@gmail.com"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-gmail-3d-icon-png-download-13567127.png" width="55" style="border-radius: 25%; transition: transform 0.3s ease;"/> </a> </p></div>
 
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/arindam-codes/arindam-codes/output/snake.svg" alt="Snake animation" />
+
+<br><br>
+
+<img src="https://profile-counter.glitch.me/arindam-codes/count.svg" alt="Profile Views" />
+
+</div>
