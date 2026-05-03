@@ -25,46 +25,126 @@
 </div>
 
 
-### 🧠 Mathematical & Quant Foundations
+## 🧠 Mathematical & Quantitative Projects
 
-* 🔗 **Optimization Models (MIT 6.100B)**
-  * **[Invest Portfolio Model](https://github.com/arindam-codes/investment-portfolio)**  
-    Cost, time, value constraints to choose the best ones  
-  * **[Freelancers Dilemma](https://github.com/arindam-codes/freelances-dillemna)**  
-    Freelancers most profitable job selection engine  
-  
-* 🔗 **[General Root Finder](https://github.com/arindam-codes/general-root-finder)**  
-  Numerical methods (bisection) for solving equations  
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📈 Investment Portfolio Optimizer</h3>
+      <p>Greedy algorithm for constrained portfolio selection. Models the 0/1 knapsack problem applied to stocks under budget constraints.</p>
+      <strong>Tech Stack:</strong> Python • Algorithms • Optimization
+      <br><br>
+      <a href="https://github.com/arindam-codes/investment-portfolio">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🎯 Freelancer's Dilemma Solver</h3>
+      <p>Decision engine for optimal job selection under time, cost and value constraints. Real-world optimization modeled computationally.</p>
+      <strong>Tech Stack:</strong> Python • Decision Systems • Constraint Modeling
+      <br><br>
+      <a href="https://github.com/arindam-codes/freelances-dillemna">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔢 General Root Finder</h3>
+      <p>Numerical methods engine implementing bisection method. Mathematics becoming executable code.</p>
+      <strong>Tech Stack:</strong> Python • Numerical Methods • Computational Math
+      <br><br>
+      <a href="https://github.com/arindam-codes/general-root-finder">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>📐 Law of Sines Visualizer</h3>
+      <p>Interactive computational geometry system. Built to understand trigonometric relationships dynamically — not just calculate them.</p>
+      <strong>Tech Stack:</strong> Python • Geometry • Mathematical Visualization
+      <br><br>
+      <a href="https://github.com/arindam-codes/Law-of-Sines-Visualizer">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⏱️ DayFlow RPC</h3>
+      <p>Time-based state machine mapping real-world activity to Discord presence. Systems thinking applied to daily life.</p>
+      <strong>Tech Stack:</strong> Python • State Machines • Automation
+      <br><br>
+      <a href="https://github.com/arindam-codes/DayFlow-discord-rich-presence-python">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🎬 Roblox Cinematic System</h3>
+      <p>~900 lines of client-server Luau. Event-driven architecture. Key realization: systems can communicate, not just compute.</p>
+      <strong>Tech Stack:</strong> Luau • Systems Architecture • Real-Time
+      <br><br>
+      <a href="https://github.com/arindam-codes/roblox-cinematic-experience">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-* 🔗 **[Law of Sines Visualizer](https://github.com/arindam-codes/Law-of-Sines-Visualizer)**  
-  Computational geometry + trigonometric visualization  
+## 🧩 Systems & Computational Learning
 
-* 🔗 **[DayFlow RPC](https://github.com/arindam-codes/DayFlow-discord-rich-presence-python)**  
-  Time-aware system mapping real-world activity → Discord presence  
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📚 Systems Learning Log</h3>
+      <p>Structured public documentation of learning across mathematics, physics, and computation. MIT OCW curriculum — Calculus, Linear Algebra, Probability, Programming.</p>
+      <strong>Tech Stack:</strong> MIT OCW • Mathematics • Building in Public
+      <br><br>
+      <a href="https://github.com/arindam-codes/systems-learning-log">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>⚛️ Computational Physics</h3>
+      <p>Classical mechanics simulated through code. Understanding physics by building it — not just calculating it.</p>
+      <strong>Tech Stack:</strong> Python • Physics Simulation • Classical Mechanics
+      <br><br>
+      <a href="https://github.com/arindam-codes/Learning-physics-by-simulation">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
----
+## 📦 Additional Work
 
-### 🧩 Systems & Computational Learning
-
-* 🔗 **[Systems Learning Log](https://github.com/arindam-codes/systems-learning-log)**  
-  Structured map of learning across math, physics, and computation  
-
-* 🔗 **[Computational Physics Exploration](https://github.com/arindam-codes/Learning-physics-by-simulation)**  
-  Simulating classical mechanics using code  
-
----
-
-### 📦 Additional Work
-
-* [CS50 Learning](https://github.com/arindam-codes/cs50-learning)
-* [Pandas Practice](https://github.com/arindam-codes/learning-pandas-as-beginner)
-* [MicroPython Labs](https://github.com/arindam-codes/micropython-led-labs)
-* [Roblox Scripting](https://github.com/arindam-codes/roblox-scripting-practices)
-* 🔗 **[Roblox Cinematic Experience](https://github.com/arindam-codes/roblox-cinematic-experience)**  
-  Real-time system exploring camera control, lighting, and player-state interaction  
-
-</div>
-
+<table>
+  <tr>
+    <td width="25%">
+      <h3>🎓 CS50</h3>
+      <a href="https://github.com/arindam-codes/cs50-learning">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="25%">
+      <h3>🐼 Pandas Practice</h3>
+      <a href="https://github.com/arindam-codes/learning-pandas-as-beginner">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="25%">
+      <h3>💡 MicroPython Labs</h3>
+      <a href="https://github.com/arindam-codes/micropython-led-labs">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="25%">
+      <h3>🎮 Roblox Scripting</h3>
+      <a href="https://github.com/arindam-codes/roblox-scripting-practices">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 <div align="center">
