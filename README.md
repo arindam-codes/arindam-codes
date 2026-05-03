@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>📈 Investment Portfolio Optimizer</h3>
+      <h3>📈  knapsack portfolio optimization python</h3>
       <p>Greedy algorithm for constrained portfolio selection. Models the 0/1 knapsack problem applied to stocks under budget constraints.</p>
       <strong>Tech Stack:</strong> Python • Algorithms • Optimization
       <br><br>
