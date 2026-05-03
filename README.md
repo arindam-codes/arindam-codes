@@ -70,7 +70,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>⏱️ DayFlow RPC</h3>
+      <h3>⏱️ DayFlow discord rich presence python</h3>
       <p>Time-based state machine mapping real-world activity to Discord presence. Systems thinking applied to daily life.</p>
       <strong>Tech Stack:</strong> Python • State Machines • Automation
       <br><br>
