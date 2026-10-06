@@ -25,6 +25,6 @@ Co-Founder & CTO
 
 Building mathematical and computational systems for quantitative finance.
 
-## 🛠️ Skills
+## Skills
 
 C • C++ • Python • Algorithms • Computer Architecture • Digital Logic • Linux • Git
