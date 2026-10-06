@@ -2,12 +2,12 @@
 
 **CS @ BITS Pilani · Computing & Engineering Research**
 
-Research Interests
+Research Interests<br>
 Systems · Computer Architecture · Hardware · Robotics · Computer Vision · Security
 
 ## About
 
-I'm a Computer Science student at **BITS Pilani** interested in
+I am a Computer Science student at **BITS Pilani** interested in
 building and understanding computational and engineering systems.
 
 My current interests span:
