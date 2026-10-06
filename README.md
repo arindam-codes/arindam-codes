@@ -5,7 +5,7 @@
 Research Interests
 Systems · Computer Architecture · Hardware · Robotics · Computer Vision · Security
 
-## 👋 About
+## About
 
 I'm a Computer Science student at **BITS Pilani** interested in
 building and understanding computational and engineering systems.
@@ -18,7 +18,7 @@ AI · Systems · Cybersecurity · Computational Mathematics**
 I learn primarily by building - turning theoretical ideas into
 working systems, simulations, and experiments.
 
-## 🚀 Venture
+## Venture
 
 **Quant Engine Capitals (QEC)**  
 Co-Founder & CTO
